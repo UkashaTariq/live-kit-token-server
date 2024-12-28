@@ -1,2 +1,5 @@
-echo "node_modules/"
-echo ".env"
+# Node modules
+node_modules/
+
+# Environment files
+.env
